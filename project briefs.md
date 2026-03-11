@@ -8,7 +8,7 @@
 | [5](#team-5) | 규교굥 |  |  |
 | [6](#team-6) | Greenfield |  |  |
 | [7](#team-7) | reverdir |  |  |
-| [8](#team-8) | 하면된다 |  |  |
+| [8](#team-8) | 하면된다 | 산학 | Vintic |
 | [9](#team-9) | Cloud9 |  |  |
 | [10](#team-10) | 212223 |  |  |
 | [11](#team-11) | 알고리듬 |  |  |
@@ -166,19 +166,19 @@
 
 | 항목 | 내용 |
 |------|------|
-| 프로젝트명 |  |
-| 트랙 |  |
+| 프로젝트명 | Vintic |
+| 트랙 | 산학 |
 | 팀명 | 하면된다 |
-| 팀구성 |  |
+| 팀구성 | 김수연, 이예주, 조채윤 |
 | 팀지도교수 |  |
-| 무엇을 만들고자 하는가 | 판매자 희망가와 ai 측정가를 병기<br>모든 매물을 특정 시각에 경매에 올리는 개인간 빈티지 거래 플랫폼 |
-| 고객 (누구를 위해) | 빈티지 거래 플랫폼 이용자를 위해 |
-| Pain Point (해결할 문제) | 1. 판매자가 빈티지 상품의 가격을 본인 마음대로 책정(정보 불균형성)<br>2. 괜찮은 매물이 언제 나올지 몰라서 수시로 플랫폼에 접속해 무한 스크롤링<br>3. 판매글 업로드 후 타이밍이 안 맞아 글이 묻히면 다시 새로 업로드(보통 하루에 한번) |
-| 사용 기술 | Vision ai(FastAPI+상용 API),SpringBoot,Spring Batch,RDBMS,Redis 등 |
-| 기대 효과 | ai측정가(객관)와 판매자 희망가(주관)가 너무 차이가 클 경우 업로드 못 하도록 해서 정보 불균형성 해소.<br>특정시각에만 경매가 이루어지므로 판매글이 떠내려가거나,수시로 플랫폼에 들어가 무한 스크롤링하지 않아도 됨 |
-| GitHub Repo | [https://github.com/hamyeon/team-hamyeon-2026](https://github.com/hamyeon/team-hamyeon-2026) |
-| Team Ground Rule |  |
-| 최종수정일 |  |
+| 무엇을 만들고자 하는가 | AI 기반 가격 검증과 정시 경매 시스템으로 정보 비대칭과 탐색 피로를 해결하는 빈티지 거래 플랫폼 |
+| 고객 (누구를 위해) | 빈티지 거래 플랫폼 이용자 |
+| Pain Point (해결할 문제) | (1) 가격 정보의 불균형: 판매자가 상품 가격을 임의로 책정하는 경우가 많아, 구매자가 적정 가격을 판단하기 어려운 구조</br>(2) 구매자의 탐색 피로: 원하는 매물의 업로드 시점을 알기 어려워, 사용자가 플랫폼에 반복적으로 접속하며 무한 스크롤링을 지속하는 문제</br>(3) 판매글 노출의 비효율: 게시글이 업로드 시점에 따라 쉽게 묻혀, 판매자가 동일한 글을 반복 업로드해야 하는 비효율 |
+| 사용 기술 | Vision AI(FastAPI+상용 API), Spring, React 등 |
+| 기대 효과 | (1) 상품별 AI 측정가와 판매자 희망가 병기를 통한 가격 판단 기준 제공</br>(2) AI 측정가와 희망가 차이 제한을 통한 가격 신뢰도 향상</br>(3) 특정 시각 일괄 경매 방식을 통한 구매자 탐색 피로 완화 및 판매자 노출 기회의 공정성 확보 |
+| GitHub Repo | [https://github.com/hamyeon/Team-Hamyeon](https://github.com/hamyeon/Team-Hamyeon) |
+| Team Ground Rule | [https://github.com/hamyeon/Team-Hamyeon/blob/main/Team_Ground_Rule.md](https://github.com/hamyeon/Team-Hamyeon/blob/main/Team_Ground_Rule.md) |
+| 최종수정일 | 2026.03.10 |
 
 [↑ 목록으로](#2026-spring-전체-프로젝트-리스트)
 
