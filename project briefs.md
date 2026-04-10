@@ -275,7 +275,7 @@
 | 개발환경 | 1. Web -> PC 권장<br>2. javaScript<br>3. spring<br>4. MySQL 인데 PostgreSQL로 이전 고려중<br>5. Redis 캐싱<br>6. OpenAI
 | 사용하는 소프트웨어 URL | 1. Web -> PC 권장<br>2. javaScript<br>3. spring<br>4. MySQL 인데 PostgreSQL로 이전 고려중<br>5. Redis 캐싱<br>6. OpenAI
 | 기대 효과 | 스케줄링 업무 자동화를 통한 행정 비용 절감 및 운영 효율성 극대화. <br> 데이터 기반의 객관적 배정 시스템을 통한 운영의 투명성 확보. <br> 교사 업무 만족도 향상 및 조직 내 인력 운영 효율성 극대화.  |
-| GitHub Repo | [https://github.com/speedSchedule](https://github.com/speedSchedule) |
+| GitHub Repo | [https://github.com/speedSchedule/AlgoRhythm](https://github.com/speedSchedule/AlgoRhythm) |
 | Team Ground Rule | [Team_Ground_Rule.md](https://github.com/speedSchedule/AlgoRhythm/blob/main/Team_Ground_Rule.md) |
 | 최종수정일 | 2025/03/12 |
 
