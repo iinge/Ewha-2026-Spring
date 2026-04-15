@@ -301,7 +301,7 @@
 | 개발환경 | 1. Client 디바이스는 Windows를 기반으로 한 PC로 한다.<br>2. FE는  React를 사용한다.<br>3. BE는 FastAPI를 기반으로 구현한다.<br>4. DB는 MySQL를 사용한다.<br>5. FE또는 BE에 사용하는 특별한 라이브러리는 Google Maps JavaScript API를 활용하여 지도 기반 기능을 구현한다.<br>6. API Call을 위해 OpenAI 서비스를 사용한다.
 | 사용하는 소프트웨어 URL | 1. Client 디바이스는 Windows를 기반으로 한 PC로 한다.<br>2. FE는  React를 사용한다.<br>3. BE는 FastAPI를 기반으로 구현한다.<br>4. DB는 MySQL를 사용한다.<br>5. FE또는 BE에 사용하는 특별한 라이브러리는 Google Maps JavaScript API를 활용하여 지도 기반 기능을 구현한다.<br>6. API Call을 위해 OpenAI 서비스를 사용한다.
 | 기대 효과 | 여성 1인 여행자가 안전하고 효율적으로 여행을 계획할 수 있고, 여성의 이동권과 안전권을 기술적으로 보장한다. |
-| GitHub Repo | [[https://github.com/capstone-team404](https://github.com/capstone-team404)] |
+| GitHub Repo | https://github.com/capstone-team404/Spring404 |
 | Team Ground Rule | (https://github.com/capstone-team404/Spring404/blob/main/Team_Ground_Rule.md) |
 | 최종수정일 | 26.03.16 |
 
